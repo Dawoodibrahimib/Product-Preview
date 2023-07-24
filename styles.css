@@ -1,0 +1,94 @@
+body
+{
+    background-color:#F3EAE3;
+    font-family:"Montserrat";
+}
+.🐸
+{
+    height: 70vh;
+    width: 95vh;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    border-radius: 15px;
+    background-color: white;
+   overflow: hidden;
+    box-sizing: border-box;
+}
+.perfume-image
+{
+    height: 70vh;
+    width: 50vh;
+    box-sizing: border-box;
+   
+}
+.🚀
+{
+    position: relative;
+    left: 450px;
+    font-size: 10px;
+    padding: none;
+    bottom: 530px;
+    font-weight:lighter;
+    font-size: 15px;
+    width: 37vh;
+    height: 65vh;
+    
+    
+}
+.🍔
+{
+    font-family:"Fraunces",sans-serif;
+    font-size: 35px;
+    
+}
+.🎤
+{
+    margin: auto;
+    color:#7f8083;
+    font-size: 15px;
+    line-height: 25px;
+}
+.🐿️{
+    color: #7f8083;
+}
+.🍕
+{
+    font-family:"Fraunces",sans-serif;
+    font-size:40px;
+    position: relative;
+    top:5px;
+    color: #408169;
+    padding: none;
+
+}
+.🐹{
+    text-decoration: line-through;
+    position: relative;
+    bottom:60px;
+    left: 200px;
+    font-size:"Fraunces";
+    color:#7f8083;
+}
+.🦖
+{
+    height: 50px;
+
+    width: 280px;
+    margin:auto;
+    position: relative;
+    right: 15px;
+    background-color:#1A4031;
+    border-radius: 10px;
+    font-family:"Montserrat";
+    font-weight: 700;
+    color: white;
+}
+.🛒
+{
+    position: relative;
+    height: 2.5vh;
+    bottom: 35px;
+    left: 55px;
+}
